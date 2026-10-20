@@ -1,6 +1,6 @@
 ﻿# Mi primer repositorio
 # nautica-docs
-![CI](https://github.com/TU_USUARIO/nautica-docs/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/RateClase/mi-primer-repo/actions/workflows/ci.yml/badge.svg)
 Web de Náutica Bahía: tienda y alquiler de material náutico en Puerto de Mazarrón.
 ## Funcionalidades
 - Portada con la presentación de la empresa.
